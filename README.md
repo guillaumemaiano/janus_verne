@@ -47,9 +47,9 @@ Janus Verne merely gives them a common voice.
 
 ## Next
 
-See [GETTING_STARTED.md](Getting_Started.md) for installation and first steps.
+See [Getting_Started.md](Getting_Started.md) for installation and first steps.
 
-See [ARCHITECTURE.md](Architecture.md) for a description of the components and their interactions.
+See [Architecture.md](Architecture.md) for a description of the components and their interactions.
 
 For installation instructions, see [Install.md](Install.md).
 
